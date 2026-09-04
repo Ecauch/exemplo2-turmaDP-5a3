@@ -70,3 +70,28 @@ git add .
 git commit -m "Descrição"
 git push origin main
 ```
+
+```
+ Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+ ```
+ > Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+ ## tabelas
+
+ | Tecnologia | Finalidade |
+ | --- | --- |
+ | Git | Controle de versões |
+ | Github | Hospedagem e colaboração |
+ Markdown | Documentação |
+
+ | Alinhado a esquerda | alinhado ao centro | alinhado a direita | 
+ | :--- | :---: | ---: |
+ | texto | texto | texto |
+
+ ## Imagens
+
+ ![gojira](./img/34e1bdd5b4b4196eb90887556058dce4.jpg)
+
+ ![Flashpoint](https://m.media-amazon.com/images/I/91dXNvO2fML._AC_UF1000,1000_QL80_.jpg)
+
+ ![github badge](.![McDonald's Badge](https://img.shields.io/badge/McDonald's-FBC817?logo=mcdonalds&logoColor=000&style=flat))
